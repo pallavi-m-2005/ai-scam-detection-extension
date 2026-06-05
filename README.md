@@ -1,0 +1,1 @@
+# ai-scam-detection-extension
