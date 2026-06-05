@@ -1,4 +1,3 @@
-# ai-scam-detection-extension
 # AI Scam Detection Extension
 
 An AI-powered browser extension that detects phishing and scam websites using:
